@@ -1,0 +1,5 @@
+name: 'views_globalhtml'
+type: module
+description: 'Views Handler Global Html Area'
+core: 8.x
+package: 'Custom'
